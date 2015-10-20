@@ -1,0 +1,28 @@
+{
+  "name": "underscore.inflection",
+  "version": "1.1.0",
+  "description": "Underscore inflection module. Just exports _.pluralize and _.singularize. Based on the repo of Jeremy Ruppel",
+  "main": "underscore.inflection.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "underscore": "^1.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.6.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redbooth/underscore.inflection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redbooth/underscore.inflection/issues"
+  },
+  "homepage": "https://github.com/redbooth/underscore.inflection#readme"
+}
